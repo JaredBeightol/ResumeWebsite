@@ -1,0 +1,109 @@
+body {
+  background-image: url("background.PNG");
+  padding: 1%;
+  padding-bottom: 2%;
+  font-weight: bold;
+}
+
+#title {
+  padding: 1%;
+  padding-left: 1%;
+  text-align: right;
+  background-color: #ffffff;
+  box-shadow: 5px 10px #00745f;
+  color: #00745f;
+  font-size:calc(12px + 3vw);
+}
+
+#educationTitle {
+  padding-left: 4%;
+  font-weight: bold;
+  color: #00745f;
+  font-size:calc(12px + 1vw);
+}
+#education {
+  width: 90%;
+  padding-left: 6%;
+  padding-top: 2%;
+  background-color: #ffffff;
+  box-shadow: 5px 10px #00745f;
+  color: #00745f;
+  font-size:calc(12px + .7vw);
+}
+
+#axisProjectTitle {
+  padding-left: 4%;
+  font-weight: bold;
+  color: #00745f;
+  font-size:calc(12px + 1vw);
+}
+#Axis {
+  padding-left: 5%;
+}
+#axisPic1 {
+  width: 70%;
+  height: auto;
+}
+#axisPic3 {
+  width: 60%;
+  height: auto;
+}
+#axisProjectDescription {
+  width: 90%;
+  padding-left: 1%;
+  padding-top: .5%;
+  background-color: #ffffff;
+  box-shadow: 2px 4px #00745f;
+  color: #00745f;
+  font-size:calc(12px + .7vw);
+}
+
+#fightProjectTitle {
+  padding-left: 4%;
+  font-weight: bold;
+  color: #00745f;
+  font-size:calc(12px + 1vw);
+}
+#Fight {
+  padding-left: 5%;
+}
+#fightPic1 {
+  width: 70%;
+  height: auto;
+}
+#fightPic2{
+  width: 70%;
+  height: auto;
+}
+#fightProjectDescription {
+  width: 90%;
+  padding-left: 1%;
+  padding-top: .5%;
+  background-color: #ffffff;
+  box-shadow: 2px 4px #00745f;
+  color: #00745f;
+  font-size:calc(12px + .7vw);
+}
+
+#workTitle {
+  padding-left: 4%;
+  font-weight: bold;
+  color: #00745f;
+  font-size:calc(12px + 1vw);
+}
+#workExperience {
+  width: 90%;
+  padding-left: 6%;
+  padding-top: 2%;
+  background-color: #ffffff;
+  box-shadow: 5px 10px #00745f;
+  color: #00745f;
+  font-size:calc(12px + .7vw);
+}
+
+#unccLogo {
+  width: 100%;
+  height: auto;
+}
+
+
